@@ -146,7 +146,13 @@ p{
     {
         text-align: left;
     }
-
+    .nav-link 
+    {
+    font-family: "Monterrat";
+    font-size: 2rem;
+    font-weight: 600;
+    color: #fff;
+    }
     .title-image
     {
         position: static;
